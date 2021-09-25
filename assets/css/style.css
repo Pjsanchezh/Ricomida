@@ -1,0 +1,102 @@
+body {
+  font-family: "Cabin", sans-serif;
+}
+
+.gris {
+  background-color: #373a3c;
+}
+
+.header {
+  padding: 0;
+}
+
+.typo {
+  font-family: "Lobster", cursive;
+  font-size: 2em;
+}
+
+.leter {
+    font-size: 1.15em;
+    text-align: center;
+}
+
+.buton {
+    position: relative;
+    right: 1em;
+}
+
+div h1{
+  font-weight: bold;
+  display: inline-flex;
+}
+
+hr {
+  border: 1px solid #000000;
+}
+
+.eich {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.imgpr {
+  height: auto;
+}
+
+.lel {
+  border-color: #DDDDDD;
+  font-size: 0.9em;
+  margin-top: 1em;
+  height: 2.6em;
+  width: 9.2em;
+}
+
+.eiks {
+  margin-bottom: 2.5em;
+}
+
+.carousel {
+  margin-bottom: 2em;
+}
+
+.carousel-indicators {
+  top: 95%;
+}
+
+.carousel-indicators [data-bs-target] { 
+  height: 0.8em; 
+  width: 0.8em; 
+}
+
+p{
+  font-size: calc(1em + 0.25vw);
+  color: #373A3C;
+}
+
+.yeik{
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+
+.pay2 {
+  text-align: center;
+  color: #373A3C;
+  font-weight: bold;
+  font-size: calc(1.90em + 1vw);
+  margin-bottom: 1em;
+}
+
+.plius {
+  font-weight: bold;
+  font-size: calc(1.2em + 0.6vw);
+}
+
+.futer {
+  color: #FFFFFF;
+  background-color: #373A3C;
+  font-family: "Lobster", cursive;
+  font-size: 2em;
+  padding: 0.5em 0 0.5em 0;
+  margin: 0;
+  text-align: center;
+}
